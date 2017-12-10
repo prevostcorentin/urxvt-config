@@ -20,6 +20,10 @@ URXvt.keysym.C-S-Left: \033[1;6D
 URxvt.iso14755: false
 URxvt.iso14755_52: false
 
+URxvt*scrollBar: false
+URxvt*scrollBar_right: false
+
+// Tango theme colors
 URxvt*foreground: white
 urxvt*background: black
 
